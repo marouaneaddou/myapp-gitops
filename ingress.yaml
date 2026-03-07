@@ -5,7 +5,7 @@ metadata:
   namespace: dev
 spec:
   rules:
-  - host: app.com
+  - host:
     http:
       paths:
       - backend:
